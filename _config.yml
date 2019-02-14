@@ -24,7 +24,7 @@ github_username:  joost-de-vries
 
 # Build settings
 markdown: kramdown
-theme: spectral
+remote_theme: spectral
 plugins:
   - jekyll-feed
 
