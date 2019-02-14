@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://joost-de-vries.github.com/sitemap.xml 
