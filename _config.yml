@@ -2,8 +2,8 @@
 title: The Source
 email: info@the-source.it
 description: Functional reactive developer in Scala, Kotlin and Typescript. Software architect, tech lead.
-baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://www.the-source.it" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -13,6 +13,8 @@ tiles-count: 3
 featured-image-source:
 about-me: "My name is Joost de Vries. I work as a functional reactive developer in Scala, Kotlin & Typescript. Currently as an independent contracter at Port of Rotterdam. I like to sing, play the saxophone, hike."
 chamber-of-commerce: "Kvk 73917737"
+external-url: "https://www.the-source.it"
+
 # Social settings
 500px_url:
 facebook_url:
